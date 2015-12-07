@@ -1,0 +1,123 @@
+/*CSS Stylesheet*/
+
+
+body {
+    margin: 0;}
+
+img {
+    max-width: 100%;}
+
+/*Navigation style*/
+#fp-nav {
+    position: absolute;
+    top: -250px;
+    Left: 80%;
+    z-index: 20;}
+
+.header {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index:1;}
+
+
+.section {
+    text-align: center;
+    font-size: 64px;}
+
+
+.backgroundimage {
+    position: relative;
+    z-index: 2;
+    width: 100vw;
+    height: 100vh;}
+
+
+h1 {
+    position: absolute; 
+    top: 400px; 
+    left: 500px;
+    z-index: 10;
+    color: white;
+    font-size: 50px;
+    text-align: right;
+    font-family: 'Alegreya SC', serif;}
+
+h2 { 
+    position: absolute; 
+    top: 400px; 
+    right: 100px; 
+    z-index: 10; 
+    color: black;
+    font-family: 'Eczar', serif;}
+
+p.section2text {
+    position: absolute; 
+    top: 120px; 
+    left: 100px; 
+    z-index: 10; 
+    color: black; 
+    font-size: 40px; 
+    text-align: left; 
+    font-weight: 900px;
+    font-family: 'Josefin Sans', sans-serif;} 
+    
+.section3text, .section4text {
+    position: absolute; 
+    top: 120px; 
+    left: 100px; 
+    z-index: 12; 
+    color: darkcyan; 
+    font-size: 60px; 
+    text-align: left; 
+    font-weight: 900px;
+    font-family: 'Pacifico', cursive;} 
+
+.section4text {
+    color: black;
+    font-family: 'Waiting for the Sunrise', cursive;}
+
+.section5text {
+    position: absolute; 
+    top: 150px; 
+    right: 100px;; 
+    z-index: 10; 
+    color: black; 
+    font-size: 50; 
+    text-align: right;
+    margin-right: 100px;
+    font-family: 'Six Caps', sans-serif;}
+
+ul {
+    position: absolute; 
+    top: 250px; 
+    left: 200px; 
+    z-index: 10; 
+    color: white; 
+    font-size: 40px; 
+    text-align: left; 
+    font-family: 'Quicksand', sans-serif;}
+
+span {
+    font-style: italic;}
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
